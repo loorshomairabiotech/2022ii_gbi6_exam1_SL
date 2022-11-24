@@ -28,12 +28,9 @@
 ## ESPECIFICAION DE WINDOWS
 
 |Edición	Windows | 10 Home |
-| --- | ---|
-
+| --- | --- |
 | Versión | 21H2 |
-
 | Se instaló el	 | ‎27/‎5/‎2021 |
-
 | Compilación del SO |	19044.2251 |
-
 | Experiencia	Windows Feature Experience  | Pack 120.2212.4180.0 |
+| --- | --- |
