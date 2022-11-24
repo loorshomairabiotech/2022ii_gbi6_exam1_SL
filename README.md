@@ -4,10 +4,15 @@
 ## DATOS DEL CURSO 
 - Bioinformatica  Grupo 1 
 ## DATOS PERSONALES
+
 -Nombre: Shomaira Anai
+
 -Apellido: Loor Loja 
+
 -Sexo:Femenino
+
 -Ciudad de origen: Quito 
+
 -Residencia: Bellavista Alta
 ## DATOS DEL EQUIPO
 -Nombre del dispositivo	DESKTOP-LKEFEJE
@@ -26,7 +31,11 @@
 ## ESPECIFICAION DE WINDOWS
 
 -Edición	Windows 10 Home
+
 -Versión	21H2
+
 -Se instaló el	‎27/‎5/‎2021
+
 -Compilación del SO	19044.2251
+
 -Experiencia	Windows Feature Experience Pack 120.2212.4180.0
