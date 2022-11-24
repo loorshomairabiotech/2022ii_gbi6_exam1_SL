@@ -8,7 +8,7 @@
 -Sexo:Femenino
 -Ciudad de origen: Quito 
 -Residencia: Bellavista Alta
-##DATOS DEL EQUIPO
+## DATOS DEL EQUIPO
 -Nombre del dispositivo	DESKTOP-LKEFEJE
 -Procesador	Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz   1.19 GHz
 -RAM instalada	12,0 GB (11,7 GB utilizable)
@@ -17,7 +17,6 @@
 -Tipo de sistema	Sistema operativo de 64 bits, procesador x64
 -Lápiz y entrada táctil	Compatibilidad con entrada táctil con 10 puntos táctiles
 ## ESPECIFICAION DE WINDOWS
--![Gnu-bash-logo svg (1)](https://user-images.githubusercontent.com/117690592/203671100-b0579a2e-5df5-4ad3-a1c9-8aeef7c28bf2.png)
 
 -Edición	Windows 10 Home
 -Versión	21H2
