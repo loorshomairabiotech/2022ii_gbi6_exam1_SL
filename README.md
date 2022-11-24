@@ -1,4 +1,5 @@
 #Examen 1 
+![Gnu-bash-logo svg (1)](https://user-images.githubusercontent.com/117690592/203671465-32990a71-9a31-483d-b8b2-9e464bd99d77.png)
 
 ## DATOS DEL CURSO 
 - Bioinformatica  Grupo 1 
