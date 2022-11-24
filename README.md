@@ -15,11 +15,11 @@
 
 -Residencia: Bellavista Alta
 ## DATOS DEL EQUIPO
-- |Nombre del dispositivo |	DESKTOP-LKEFEJE |
+|Nombre del dispositivo |	DESKTOP-LKEFEJE |
 
-- |Procesador	Intel(R) Core(TM) | i3-1005G1 CPU @ 1.20GHz   1.19 GHz 
+|Procesador	Intel(R) Core(TM) | i3-1005G1 CPU @ 1.20GHz   1.19 GHz 
 
-- |RAM instalada	12,0 GB (11,7 GB utilizable)|
+|RAM instalada	12,0 GB (11,7 GB utilizable)|
 
 - |Id. del dispositivo |	2A6D6B2C-602B-422D-9213-24A01D37768F |
 
